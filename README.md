@@ -12,17 +12,17 @@
 
 ---
 
-## 🌌 About Me  
+##  About Me  
 
-- 👨‍💻 Full Stack Developer passionate about **React, Redux, TypeScript, Tailwind, Node.js**  
-- 🤖 Working on my own **Jarvis-like AI Assistant**  
-- 🎮 Loves **gaming dashboards, futuristic UIs, and creative projects**  
-- 📚 Always learning & experimenting with **AI, automation, and system design**  
-- 🚀 Believes in **scalable, industry-level code + futuristic design**  
+- Full Stack Developer passionate about **React, Redux, TypeScript, Tailwind, Node.js**  
+- Working on my own **Jarvis-like AI Assistant**  
+- Loves **gaming dashboards, futuristic UIs, and creative projects**  
+- Always learning & experimenting with **AI, automation, and system design**  
+- Believes in **scalable, industry-level code + futuristic design**  
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,redux,typescript,javascript,tailwind,nodejs,express,mongodb,git,github,vite,bootstrap,python" />
@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 GitHub Analytics  
+##  GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevGodVGS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFF7&icon_color=00FFF7" height="180" />
@@ -43,7 +43,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+##  Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/vishwa-gaurav-shukla" target="_blank">
