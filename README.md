@@ -1,9 +1,9 @@
 <!-- Futuristic GitHub Profile README for Vishwa Gaurav Shukla -->
 
 <!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/profile.png" alt="Vishwa Gaurav Shukla Banner" width="100%" />
-</p>
+</p> -->
 
 <!-- Typing Effect -->
 <p align="center">
