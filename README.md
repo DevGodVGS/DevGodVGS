@@ -1,4 +1,4 @@
-<!-- 🚀 Cyberpunk GitHub Profile for DevGodVGS -->
+<!-- Cyberpunk GitHub Profile for DevGodVGS -->
 
 <!-- Banner -->
 <!-- <p align="center">
@@ -9,6 +9,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=1000&lines=🚀+Hey+there,+I'm+DevGodVGS!;⚡+Full+Stack+Developer+%7C+AI+Architect;🌌+Building+the+Future+with+Code;🤖+Fusing+AI,+Automation+,+Cyberpunk+Designs" alt="Typing SVG">
 </p>
+<!-- Glitch Name -->
+<p align="center">
+  <img src="https://see.fontimg.com/api/renderfont4/dBYjA/eyJyIjoiZnMiLCJoIjo2MywidyI6MTAwMCwiZnMiOjUxLCJmZ2MiOiIjRkYwMEZGIiwiYmdjIjoiIzBEMTExNyIsInQiOjF9/REVWR09EVkdT/cyberpunk.png" alt="Glitchy DevGodVGS" width="700"/>
+</p>
+
 
 ---
 
@@ -17,17 +22,17 @@
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Cyber Divider" width="100%" />
 </p>
 
-## ⚡ About Me  
+##  About Me  
 
-- 🚀 Full Stack Developer with a **cyberpunk touch**  
-- 🤖 Currently building a **Jarvis-like AI Assistant**  
-- 🎮 Love **gaming dashboards, holographic UIs, futuristic apps**  
-- 🧠 Exploring **AI × Automation × Cyber Systems**  
-- 💡 Believe in **scalable systems + neon-styled creativity**  
+- Full Stack Developer with a **cyberpunk touch**  
+-  Currently building a **Jarvis-like AI Assistant**  
+-  Love **gaming dashboards, holographic UIs, futuristic apps**  
+-  Exploring **AI × Automation × Cyber Systems**  
+-  Believe in **scalable systems + neon-styled creativity**  
 
 ---
 
-## 🛠️ Tech Arsenal  
+##  Tech Arsenal  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,tailwind,nodejs,express,mongodb,python,git,docker,linux,figma" />
@@ -35,7 +40,7 @@
 
 ---
 
-## 🔮 GitHub Analytics  
+##  GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevGodVGS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFF7" height="180" />
@@ -48,7 +53,7 @@
 
 ---
 
-## 🌌 Connect With Me  
+##  Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/vishwa-gaurav-shukla" target="_blank">
