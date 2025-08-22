@@ -1,7 +1,8 @@
 <!-- Glitch Name -->
 <p align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/dBYjA/eyJyIjoiZnMiLCJoIjo2MywidyI6MTAwMCwiZnMiOjUxLCJmZ2MiOiIjRkYwMEZGIiwiYmdjIjoiIzBEMTExNyIsInQiOjF9/REVWR09EVkdT/cyberpunk.png" alt="Glitchy DevGodVGS" width="700"/>
+  <img src="./assets/devgodvgs-glitch.gif" alt="Glitchy DevGodVGS" width="700"/>
 </p>
+
 
 <!-- Glitch Divider -->
 <p align="center">
