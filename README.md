@@ -1,10 +1,3 @@
-<!-- Cyberpunk GitHub Profile for DevGodVGS -->
-
-<!-- Banner -->
-<!-- <p align="center">
-  <img src="./assets/banner.png" alt="DevGodVGS Cyberpunk Banner" width="100%" />
-</p> -->
-
 <!-- Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=1000&lines=🚀+Hey+there,+I'm+DevGodVGS!;⚡+Full+Stack+Developer+%7C+AI+Architect;🌌+Building+the+Future+with+Code;🤖+Fusing+AI,+Automation+,+Cyberpunk+Designs" alt="Typing SVG">
