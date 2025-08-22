@@ -1,14 +1,7 @@
-<!-- Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=1000&lines=🚀+Hey+there,+I'm+DevGodVGS!;⚡+Full+Stack+Developer+%7C+AI+Architect;🌌+Building+the+Future+with+Code;🤖+Fusing+AI,+Automation+,+Cyberpunk+Designs" alt="Typing SVG">
-</p>
 <!-- Glitch Name -->
 <p align="center">
   <img src="https://see.fontimg.com/api/renderfont4/dBYjA/eyJyIjoiZnMiLCJoIjo2MywidyI6MTAwMCwiZnMiOjUxLCJmZ2MiOiIjRkYwMEZGIiwiYmdjIjoiIzBEMTExNyIsInQiOjF9/REVWR09EVkdT/cyberpunk.png" alt="Glitchy DevGodVGS" width="700"/>
 </p>
-
-
----
 
 <!-- Glitch Divider -->
 <p align="center">
