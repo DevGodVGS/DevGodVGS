@@ -1,24 +1,22 @@
 <!-- Cyberpunk Banner -->
 <p align="center">
-  <img src="./assets/banner.png" alt="DevGodVGS Cyberpunk Banner" width="100%" />
+  <picture>
+    <source srcset="./assets/banner.gif" type="image/gif">
+    <img src="./assets/banner.png" alt="DevGodVGS Cyberpunk Banner" width="100%"/>
+  </picture>
 </p>
 
-<!-- Glitch Name -->
-<p align="center">
-  <img src="./assets/devgodvgs-glitch.gif" alt="Glitchy DevGodVGS" width="700"/>
-</p>
-
-##  About Me  
+## 🚀 About Me  
 
 - Full Stack Developer with a **cyberpunk touch**  
--  Currently building a **Jarvis-like AI Assistant**  
--  Love **gaming dashboards, holographic UIs, futuristic apps**  
--  Exploring **AI × Automation × Cyber Systems**  
--  Believe in **scalable systems + neon-styled creativity**  
+- Currently building a **Jarvis-like AI Assistant**  
+- Love **gaming dashboards, holographic UIs, futuristic apps**  
+- Exploring **AI × Automation × Cyber Systems**  
+- Believe in **scalable systems + neon-styled creativity**  
 
 ---
 
-##  Tech Arsenal  
+## ⚡ Tech Arsenal  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,tailwind,nodejs,express,mongodb,python,git,docker,linux,figma" />
@@ -26,7 +24,7 @@
 
 ---
 
-##  GitHub Analytics  
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevGodVGS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFF7" height="180" />
@@ -39,17 +37,17 @@
 
 ---
 
-##  Connect With Me  
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/vishwa-gaurav-shukla" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFF7" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFF7&labelColor=0D1117&color=FF00FF" />
   </a>
   <a href="mailto:devgodvgs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3131" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3131&labelColor=0D1117&color=00FFF7" />
   </a>
   <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=FF00FF" />
+    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=FF00FF&labelColor=0D1117&color=00FFF7" />
   </a>
 </p>
 
@@ -57,5 +55,5 @@
 
 <!-- Neon Footer -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Powered_by_DevGodVGS-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7" />
+  <img src="https://img.shields.io/badge/⚡_Powered_by_DevGodVGS-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7&labelColor=0D1117&color=FF00FF" />
 </p>
