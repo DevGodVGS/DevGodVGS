@@ -1,64 +1,70 @@
-<!-- Futuristic GitHub Profile README for Vishwa Gaurav Shukla -->
+<!-- 🚀 Cyberpunk GitHub Profile for DevGodVGS -->
 
 <!-- Banner -->
 <!-- <p align="center">
-  <img src="./assets/profile.png" alt="Vishwa Gaurav Shukla Banner" width="100%" />
+  <img src="./assets/banner.png" alt="DevGodVGS Cyberpunk Banner" width="100%" />
 </p> -->
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FFF7&center=true&vCenter=true&width=1000&lines=🚀+Hey+there,+I'm+Vishwa+Gaurav+Shukla!;⚡+Full+Stack+Developer+%7C+AI+Enthusiast;🛠️+Building+Next-Gen+Apps+and+Dashboards;🌌+Coding+the+Future+with+Creativity" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=1000&lines=🚀+Hey+there,+I'm+DevGodVGS!;⚡+Full+Stack+Developer+%7C+AI+Architect;🌌+Building+the+Future+with+Code;🤖+Fusing+AI,+Automation+,+Cyberpunk+Designs" alt="Typing SVG">
 </p>
 
 ---
 
-##  About Me  
+<!-- Glitch Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Cyber Divider" width="100%" />
+</p>
 
-- Full Stack Developer passionate about **React, Redux, TypeScript, Tailwind, Node.js**  
-- Working on my own **Jarvis-like AI Assistant**  
-- Loves **gaming dashboards, futuristic UIs, and creative projects**  
-- Always learning & experimenting with **AI, automation, and system design**  
-- Believes in **scalable, industry-level code + futuristic design**  
+## ⚡ About Me  
+
+- 🚀 Full Stack Developer with a **cyberpunk touch**  
+- 🤖 Currently building a **Jarvis-like AI Assistant**  
+- 🎮 Love **gaming dashboards, holographic UIs, futuristic apps**  
+- 🧠 Exploring **AI × Automation × Cyber Systems**  
+- 💡 Believe in **scalable systems + neon-styled creativity**  
 
 ---
 
-## Tech Stack  
+## 🛠️ Tech Arsenal  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,typescript,javascript,tailwind,nodejs,express,mongodb,git,github,vite,bootstrap,python" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,tailwind,nodejs,express,mongodb,python,git,docker,linux,figma" />
 </p>
 
 ---
 
-##  GitHub Analytics  
+## 🔮 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevGodVGS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFF7&icon_color=00FFF7" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevGodVGS&theme=radical&hide_border=true&background=0D1117&ring=00FFF7&fire=00FFF7&currStreakLabel=00FFF7" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevGodVGS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFF7" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevGodVGS&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=00FFF7&currStreakLabel=FF00FF" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevGodVGS&bg_color=0D1117&color=00FFF7&line=00FFF7&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevGodVGS&bg_color=0D1117&color=00FFF7&line=FF00FF&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
 
-##  Connect With Me  
+## 🌌 Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/vishwa-gaurav-shukla" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFF7" />
   </a>
-  <a href="mailto:vishwa.gaurav.shukla@example.com">
-    <img src="https://img.shields.io/badge/Email-FF3131?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:devgodvgs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3131" />
   </a>
   <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=FF00FF" />
   </a>
 </p>
 
 ---
 
+<!-- Neon Footer -->
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_Coded%20by%20Vishwa%20Gaurav%20Shukla-00FFF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡_Powered_by_DevGodVGS-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7" />
 </p>
