@@ -1,13 +1,12 @@
+<!-- Cyberpunk Banner -->
+<p align="center">
+  <img src="./assets/banner.png" alt="DevGodVGS Cyberpunk Banner" width="100%" />
+</p>
+
 <!-- Glitch Name -->
 <p align="center">
   <img src="./assets/devgodvgs-glitch.gif" alt="Glitchy DevGodVGS" width="700"/>
 </p>
-
-
-<!-- Glitch Divider -->
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Cyber Divider" width="100%" />
-</p> -->
 
 ##  About Me  
 
@@ -58,5 +57,5 @@
 
 <!-- Neon Footer -->
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_Powered_by_DevGodVGS-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7" />
+  <img src="https://img.shields.io/badge/Powered_by_DevGodVGS-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7" />
 </p>
