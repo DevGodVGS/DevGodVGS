@@ -2,7 +2,7 @@
 <p align="center">
   <img src="<!-- Profile Banner -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Vishwa Gaurav Shukla Banner" width="100%" />
+  <img src="./assets/profile.png" alt="Vishwa Gaurav Shukla Banner" width="100%" />
 </p>
 
 <!-- Typing Animation -->
