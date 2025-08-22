@@ -5,9 +5,9 @@
 
 
 <!-- Glitch Divider -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Cyber Divider" width="100%" />
-</p>
+</p> -->
 
 ##  About Me  
 
