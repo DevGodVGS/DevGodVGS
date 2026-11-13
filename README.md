@@ -1,60 +1,69 @@
-<!-- Cyberpunk Banner -->
-<p align="center">
-  <picture>
-    <source srcset="./assets/banner.gif" type="image/gif">
-    <img src="./assets/banner.png" alt="DevGodVGS Cyberpunk Banner" width="100%"/>
-  </picture>
-</p>
+<a href="https://vishwagauravshukla.vercel.app">
+  <img src="https://vishwagauravshukla.vercel.app/og.png" alt="Vishwa Gaurav Shukla, Full Stack Software Engineer" width="100%" />
+</a>
 
-## 🚀 About Me  
-
-- **Full Stack Software Engineer** with 3 years of shipping production web applications  
-- Build scalable products end to end with **React, Next.js, Node.js and Azure**  
-- Integrate **LLMs into real workflows** using Azure OpenAI and Google Gemini  
-- Architected **single sign-on serving 10K+ active users** and unified 6+ React codebases into one design system  
-- Currently building **Friday**, a Jarvis-like AI assistant  
-- Portfolio: **[vishwagauravshukla.vercel.app](https://vishwagauravshukla.vercel.app)**  
-
----
-
-## ⚡ Tech Arsenal  
+<h1 align="center">Hi, I'm Vishwa Gaurav Shukla</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,tailwind,bootstrap,html,css,nodejs,express,mongodb,mysql,postgres,azure,python,java,git,github,vercel&perline=10" />
-</p>
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevGodVGS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFF7" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevGodVGS&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=00FFF7&currStreakLabel=FF00FF" height="180" />
+  <b>Full Stack Software Engineer</b> building scalable web applications and AI-powered products<br />
+  React · Next.js · Node.js · Azure · LLM integration
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevGodVGS&bg_color=0D1117&color=00FFF7&line=FF00FF&point=FFFFFF&hide_border=true" />
+  <a href="https://vishwagauravshukla.vercel.app"><img src="https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=vercel&logoColor=c6f24e" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/vgs-profile"><img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=c6f24e" alt="LinkedIn" /></a>
+  <a href="mailto:shuklavishwagaurav@gmail.com"><img src="https://img.shields.io/badge/Email-09090b?style=for-the-badge&logo=gmail&logoColor=c6f24e" alt="Email" /></a>
 </p>
 
----
+## About
 
-## 🌐 Connect With Me  
+I design and deliver high-performance web applications end to end: frontend, backend, cloud and the AI features that sit on top. Three years in production engineering, with a focus on clean architecture, security and user experience.
+
+- Architected **single sign-on serving 10K+ active users** with 99.9% uptime
+- Unified **6+ React codebases** into one shared design system
+- Ship **LLM features in real workflows** with Azure OpenAI and Google Gemini
+- Led and mentored a frontend team, setting code-review and engineering standards
+
+## What I work on
+
+| Area | What that means |
+| --- | --- |
+| **Product engineering** | React and Next.js frontends, Node.js services, role-based portals |
+| **AI integration** | LLM pipelines, prompt engineering, vision analysis, real-time and batch inference |
+| **Platform and security** | Single sign-on, JWT, role-based access control, Azure deployments, CI/CD |
+
+## Featured projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**Portfolio**](https://github.com/DevGodVGS/portfolio-v5) · [live](https://vishwagauravshukla.vercel.app) | Personal site with a 100 Lighthouse score across performance, accessibility, best practices and SEO | React, TypeScript, Vite, Tailwind CSS |
+| [**Daily Job Hunter**](https://github.com/DevGodVGS/daily-job-hunter) | Scheduled agent that scans job boards each morning, scores postings against a résumé with Gemini, and sends a shortlist by email and WhatsApp | Node.js, Gemini API, node-cron |
+| [**Trip Genie**](https://github.com/DevGodVGS/trip-genie) · [live](https://trip-genie-jade.vercel.app) | Trip-planning front end with a guided form and a day-by-day itinerary view | React, Redux Toolkit, Framer Motion |
+
+Currently building **Friday**, a personal AI assistant.
+
+## Tech stack
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,tailwind,bootstrap,html,css,vite" alt="React, Next.js, Redux, TypeScript, JavaScript, Tailwind CSS, Bootstrap, HTML, CSS, Vite" />
+
+**Backend and data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,python,java" alt="Node.js, Express, MongoDB, MySQL, PostgreSQL, Python, Java" />
+
+**Cloud and tooling**
+
+<img src="https://skillicons.dev/icons?i=azure,vercel,git,github,postman,vscode" alt="Azure, Vercel, Git, GitHub, Postman, VS Code" />
+
+**AI**: Azure OpenAI (GPT-4o, GPT-4.1 mini) · Google Gemini · prompt engineering · AI-assisted development
+
+## GitHub activity
 
 <p align="center">
-  <a href="https://vishwagauravshukla.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FFF7&labelColor=0D1117&color=FF00FF" />
-  </a>
-  <a href="https://www.linkedin.com/in/vgs-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFF7&labelColor=0D1117&color=FF00FF" />
-  </a>
-  <a href="mailto:shuklavishwagaurav@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3131&labelColor=0D1117&color=00FFF7" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=DevGodVGS&hide_border=true&background=09090b&ring=c6f24e&fire=c6f24e&currStreakLabel=c6f24e&currStreakNum=edece8&sideNums=edece8&sideLabels=a6a6ae&dates=74747d&stroke=27272a" alt="GitHub contribution streak" />
 </p>
 
----
+## Get in touch
 
-<!-- Neon Footer -->
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡_Powered_by_DevGodVGS-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7&labelColor=0D1117&color=FF00FF" />
-</p>
+Open to conversations about full-stack and AI engineering roles. The fastest way to reach me is [email](mailto:shuklavishwagaurav@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vgs-profile).
