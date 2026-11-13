@@ -40,6 +40,11 @@ I design and deliver high-performance web applications end to end: frontend, bac
 | [**Daily Job Hunter**](https://github.com/DevGodVGS/daily-job-hunter) | Scheduled agent that scans job boards each morning, scores postings against a résumé with Gemini, and sends a shortlist by email and WhatsApp | Node.js, Gemini API, node-cron |
 | [**Trip Genie**](https://github.com/DevGodVGS/trip-genie) · [live](https://trip-genie-jade.vercel.app) | Trip-planning front end with a guided form and a day-by-day itinerary view | React, Redux Toolkit, Framer Motion |
 
+<p align="center">
+  <a href="https://vishwagauravshukla.vercel.app"><img src="assets/portfolio.jpg" alt="Portfolio home page" width="49%" /></a>
+  <a href="https://trip-genie-jade.vercel.app"><img src="assets/trip-genie.jpg" alt="Trip Genie home page" width="49%" /></a>
+</p>
+
 Currently building **Friday**, a personal AI assistant.
 
 ## Tech stack
@@ -54,7 +59,7 @@ Currently building **Friday**, a personal AI assistant.
 
 **Cloud and tooling**
 
-<img src="https://skillicons.dev/icons?i=azure,vercel,git,github,postman,vscode" alt="Azure, Vercel, Git, GitHub, Postman, VS Code" />
+<img src="https://skillicons.dev/icons?i=azure,vercel,git,github" alt="Azure, Vercel, Git, GitHub" />
 
 **AI**: Azure OpenAI (GPT-4o, GPT-4.1 mini) · Google Gemini · prompt engineering · AI-assisted development
 
