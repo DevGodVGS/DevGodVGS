@@ -36,7 +36,7 @@ I design and deliver high-performance web applications end to end: frontend, bac
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**Portfolio**](https://github.com/DevGodVGS/portfolio-v5) · [live](https://vishwagauravshukla.vercel.app) | Personal site with a 100 Lighthouse score across performance, accessibility, best practices and SEO | React, TypeScript, Vite, Tailwind CSS |
+| [**Portfolio**](https://github.com/DevGodVGS/portfolio-v5) · [live](https://vishwagauravshukla.vercel.app) | Personal site scoring 100 on desktop Lighthouse for performance, accessibility, best practices and SEO | React, TypeScript, Vite, Tailwind CSS |
 | [**Daily Job Hunter**](https://github.com/DevGodVGS/daily-job-hunter) | Scheduled agent that scans job boards each morning, scores postings against a résumé with Gemini, and sends a shortlist by email and WhatsApp | Node.js, Gemini API, node-cron |
 | [**Trip Genie**](https://github.com/DevGodVGS/trip-genie) · [live](https://trip-genie-jade.vercel.app) | Trip-planning front end with a guided form and a day-by-day itinerary view | React, Redux Toolkit, Framer Motion |
 
@@ -66,4 +66,4 @@ Currently building **Friday**, a personal AI assistant.
 
 ## Get in touch
 
-Open to conversations about full-stack and AI engineering roles. The fastest way to reach me is [email](mailto:shuklavishwagaurav@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vgs-profile).
+The fastest way to reach me is [email](mailto:shuklavishwagaurav@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vgs-profile).
