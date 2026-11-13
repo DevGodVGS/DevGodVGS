@@ -8,11 +8,11 @@
 
 ## 🚀 About Me  
 
-- Full Stack Developer with a **cyberpunk touch**  
-- Currently building a **Jarvis-like AI Assistant**  
-- Love **gaming dashboards, holographic UIs, futuristic apps**  
-- Exploring **AI × Automation × Cyber Systems**  
-- Believe in **scalable systems + neon-styled creativity**  
+- **Full Stack Software Engineer** with 3 years of shipping production web applications  
+- Build scalable products end to end with **React, Next.js, Node.js and Azure**  
+- Integrate **LLMs into real workflows** using Azure OpenAI and Google Gemini  
+- Architected **single sign-on serving 10K+ active users** and unified 6+ React codebases into one design system  
+- Currently building **Friday**, a Jarvis-like AI assistant  
 - Portfolio: **[vishwagauravshukla.vercel.app](https://vishwagauravshukla.vercel.app)**  
 
 ---
@@ -20,7 +20,7 @@
 ## ⚡ Tech Arsenal  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,tailwind,nodejs,express,mongodb,python,git,docker,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,tailwind,bootstrap,html,css,nodejs,express,mongodb,mysql,postgres,azure,python,java,git,github,vercel&perline=10" />
 </p>
 
 ---
@@ -47,11 +47,8 @@
   <a href="https://linkedin.com/in/vishwa-gaurav-shukla" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFF7&labelColor=0D1117&color=FF00FF" />
   </a>
-  <a href="mailto:devgodvgs@gmail.com">
+  <a href="mailto:shuklavishwagaurav@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3131&labelColor=0D1117&color=00FFF7" />
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=FF00FF&labelColor=0D1117&color=00FFF7" />
   </a>
 </p>
 
