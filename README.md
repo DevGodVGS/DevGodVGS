@@ -44,7 +44,7 @@
   <a href="https://vishwagauravshukla.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FFF7&labelColor=0D1117&color=FF00FF" />
   </a>
-  <a href="https://linkedin.com/in/vishwa-gaurav-shukla" target="_blank">
+  <a href="https://www.linkedin.com/in/vgs-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFF7&labelColor=0D1117&color=FF00FF" />
   </a>
   <a href="mailto:shuklavishwagaurav@gmail.com">
