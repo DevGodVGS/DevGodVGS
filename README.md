@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Vishwa Gaurav Shukla 👋</h1>
+<h1 align="center">Hi, I'm Vishwa Gaurav Shukla</h1>
 
 <h3 align="center">Full Stack Software Engineer | Product Builder | AI Enthusiast</h3>
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 👨💻 About Me
+## About Me
 
 I'm a Full Stack Software Engineer focused on building high-performance applications, scalable backend systems, and AI-powered products.
 
@@ -59,7 +59,7 @@ My engineering philosophy revolves around **clean architecture, maintainability,
 
 ---
 
-## 🛠️ What I Build
+## What I Build
 
 | Domain | Focus Areas |
 |---|---|
@@ -72,7 +72,7 @@ My engineering philosophy revolves around **clean architecture, maintainability,
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 A selection of applications, experiments, and products I'm building.
 
@@ -118,7 +118,7 @@ A performance-focused personal website showcasing my engineering experience, pro
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -149,7 +149,7 @@ A performance-focused personal website showcasing my engineering experience, pro
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=DevGodVGS&show_icons=true&theme=transparent&hide_border=true&title_color=c6f24e&icon_color=c6f24e&text_color=ededed&rank_icon=github" alt="GitHub statistics" />
@@ -171,7 +171,7 @@ A performance-focused personal website showcasing my engineering experience, pro
 
 ---
 
-## 🔭 Currently Building
+## Currently Building
 
 **Friday** — A personal AI assistant focused on intelligent automation, contextual assistance, and practical AI-powered workflows.
 
@@ -181,7 +181,7 @@ I enjoy exploring new technologies, experimenting with ideas, and turning concep
 
 ---
 
-## 🌐 Explore & Connect
+## Explore & Connect
 
 Interested in my work? Explore my repositories, check out my projects, or connect with me.
 
