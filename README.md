@@ -192,3 +192,4 @@ Interested in my work? Explore my repositories, check out my projects, or connec
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:c6f24e&height=100&section=footer" width="100%" alt="Footer banner" />
 </p>
 
+<!-- pull-shark-badge -->
