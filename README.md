@@ -1,9 +1,7 @@
 # Vishwa Gaurav Shukla | DevGodVGS
 
 <p align="center">
-  <a href="https://vishwagauravshukla.vercel.app">
-    <img src="https://vishwagauravshukla.vercel.app/og.png" alt="Vishwa Gaurav Shukla | Full Stack Software Engineer" width="100%" />
-  </a>
+  <a href="https://vishwagauravshukla.vercel.app"><img src="https://vishwagauravshukla.vercel.app/og.png" alt="Vishwa Gaurav Shukla | Full Stack Software Engineer" width="100%" /></a>
 </p>
 
 <h1 align="center">Hi, I'm Vishwa Gaurav Shukla</h1>
@@ -19,24 +17,14 @@
 </p>
 
 <p align="center">
-  <a href="https://vishwagauravshukla.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=vercel&logoColor=c6f24e" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/vgs-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=c6f24e" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shuklavishwagaurav@gmail.com">
-    <img src="https://img.shields.io/badge/Email-09090b?style=for-the-badge&logo=gmail&logoColor=c6f24e" alt="Email" />
-  </a>
+  <a href="https://vishwagauravshukla.vercel.app"><img src="https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=vercel&logoColor=c6f24e" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/vgs-profile"><img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=c6f24e" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:shuklavishwagaurav@gmail.com"><img src="https://img.shields.io/badge/Email-09090b?style=for-the-badge&logo=gmail&logoColor=c6f24e" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DevGodVGS?tab=followers">
-    <img src="https://img.shields.io/github/followers/DevGodVGS?label=FOLLOW%20ME&style=for-the-badge&logo=github&color=c6f24e&labelColor=09090b" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/DevGodVGS?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-c6f24e?style=for-the-badge&logo=github&logoColor=c6f24e&labelColor=09090b" alt="Explore Repositories" />
-  </a>
+  <a href="https://github.com/DevGodVGS?tab=followers"><img src="https://img.shields.io/github/followers/DevGodVGS?label=FOLLOW%20ME&style=for-the-badge&logo=github&color=c6f24e&labelColor=09090b" alt="GitHub Followers" /></a>&nbsp;
+  <a href="https://github.com/DevGodVGS?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-c6f24e?style=for-the-badge&logo=github&logoColor=c6f24e&labelColor=09090b" alt="Explore Repositories" /></a>
 </p>
 
 ---
@@ -152,8 +140,8 @@ A performance-focused personal website showcasing my engineering experience, pro
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DevGodVGS&show_icons=true&theme=transparent&hide_border=true&title_color=c6f24e&icon_color=c6f24e&text_color=ededed&rank_icon=github" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGodVGS&layout=compact&theme=transparent&hide_border=true&title_color=c6f24e&text_color=ededed" alt="Most used programming languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DevGodVGS&show_icons=true&bg_color=09090b&border_color=27272a&title_color=c6f24e&icon_color=c6f24e&text_color=ededed&rank_icon=github" alt="GitHub statistics" />&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGodVGS&layout=compact&bg_color=09090b&border_color=27272a&title_color=c6f24e&text_color=ededed" alt="Most used programming languages" />
 </p>
 
 <p align="center">
@@ -186,12 +174,8 @@ I enjoy exploring new technologies, experimenting with ideas, and turning concep
 Interested in my work? Explore my repositories, check out my projects, or connect with me.
 
 <p align="center">
-  <a href="https://github.com/DevGodVGS?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-09090b?style=for-the-badge&logo=github&logoColor=c6f24e" alt="Explore repositories" />
-  </a>
-  <a href="https://github.com/DevGodVGS?tab=followers">
-    <img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-c6f24e?style=for-the-badge&logo=github&logoColor=09090b" alt="Follow on GitHub" />
-  </a>
+  <a href="https://github.com/DevGodVGS?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-09090b?style=for-the-badge&logo=github&logoColor=c6f24e" alt="Explore repositories" /></a>&nbsp;
+  <a href="https://github.com/DevGodVGS?tab=followers"><img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-c6f24e?style=for-the-badge&logo=github&logoColor=09090b" alt="Follow on GitHub" /></a>
 </p>
 
 <p align="center">
